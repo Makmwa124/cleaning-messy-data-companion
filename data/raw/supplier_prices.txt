@@ -1,0 +1,9 @@
+﻿sku;description;unit_price_eur;pack_qty
+NL-2201;Watering can 10 L;12,40;6
+NL-2202;Bird bath, ceramic;48,90;2
+NL-2203;Garden kneeler;9,75;10
+NL-2204;Hose nozzle, 8 pattern;6,20;12
+NL-2205;Plant labels (50);2,95;40
+NL-2206;Hanging basket 35 cm;18,60;4
+NL-2207;Trowel, stainless;11,05;12
+NL-2208;Compost bin 220 L;1.049,00;1
