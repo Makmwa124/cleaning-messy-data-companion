@@ -65,3 +65,14 @@ Tested with Python 3.13 and pandas 3.0.
 Banksia Home Supply, Mallee Hardware & Garden and every person, email address and phone number in their data are fictional. Town names and postcodes are real. The data and code are free to use for learning. The book itself is © 2026 Mathew Kariuki.
 
 Spotted a problem with an example or the data? Please open an issue.
+
+
+## Free lessons that go with this book
+
+Watch real datasets being cleaned step by step, with free notebooks and data, on [Mathew K Analytics](https://www.mathewkanalytics.com/):
+
+- [Pandas data cleaning: missing values and duplicates](https://www.mathewkanalytics.com/lessons/data-analytics-zero-to-hero/008-pandas-data-cleaning/)
+- [Auditing a real retail transactions dataset](https://www.mathewkanalytics.com/lessons/real-world-data-analytics/001-acquiring-and-auditing-a-real-retail-transactions-dataset/)
+- [Pandas data wrangling: reshape and transform](https://www.mathewkanalytics.com/lessons/data-analytics-zero-to-hero/009-pandas-data-wrangling/)
+- [Pandas Full Course (65 lessons)](https://www.mathewkanalytics.com/series/pandas-full-course/)
+- [Free messy datasets to practise on](https://www.mathewkanalytics.com/datasets/)
